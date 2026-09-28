@@ -4,12 +4,14 @@
     "to": 100
   },
   "completed": [
-    70
+    70,
+    71
   ],
   "coverage_checked": [
-    70
+    70,
+    71
   ],
-  "current": 71,
+  "current": 72,
   "combined_document_created": false,
   "pdf_created": false,
   "pdf_verified": false
