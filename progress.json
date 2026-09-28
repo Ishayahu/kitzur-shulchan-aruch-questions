@@ -3,9 +3,13 @@
     "from": 70,
     "to": 100
   },
-  "completed": [],
-  "coverage_checked": [],
-  "current": 70,
+  "completed": [
+    70
+  ],
+  "coverage_checked": [
+    70
+  ],
+  "current": 71,
   "combined_document_created": false,
   "pdf_created": false,
   "pdf_verified": false
