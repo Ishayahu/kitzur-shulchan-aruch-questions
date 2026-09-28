@@ -8,3 +8,4 @@
 - «קיצור שולחן ערוך», р. Шломо Ганцфрид, [ивритский текст, סימן עד, Beit Chabad](https://he.chabad.org/library/article_cdo/aid/4298150). Основной текст для главы 74.
 - «קיצור שולחן ערוך», р. Шломо Ганцфрид, [ивритский текст, סימן עה, Beit Chabad](https://he.chabad.org/library/article_cdo/aid/4298151). Основной текст для главы 75.
 - «קיצור שולחן ערוך», р. Шломо Ганцфрид, [ивритский текст, סימן עו, Beit Chabad](https://he.chabad.org/library/article_cdo/aid/4298152). Основной текст для главы 76.
+- «קיצור שולחן ערוך», р. Шломо Ганцфрид, [ивритский текст, סימן עז, Beit Chabad](https://he.chabad.org/library/article_cdo/aid/4298153). Основной текст для главы 77.
