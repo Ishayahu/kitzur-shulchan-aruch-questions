@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": 70,
-    "to": 100
+    "from": 1,
+    "to": 221
   },
   "completed": [
     70,
@@ -24,5 +24,16 @@
   "current": 77,
   "combined_document_created": false,
   "pdf_created": false,
-  "pdf_verified": false
+  "pdf_verified": false,
+  "work_order": [
+    {
+      "from": 70,
+      "to": 221
+    },
+    {
+      "from": 1,
+      "to": 69
+    }
+  ],
+  "phase": 1
 }
