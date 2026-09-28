@@ -1,0 +1,12 @@
+{
+  "range": {
+    "from": 70,
+    "to": 100
+  },
+  "completed": [],
+  "coverage_checked": [],
+  "current": 70,
+  "combined_document_created": false,
+  "pdf_created": false,
+  "pdf_verified": false
+}
