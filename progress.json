@@ -12,7 +12,8 @@
     75,
     76,
     77,
-    78
+    78,
+    79
   ],
   "coverage_checked": [
     70,
@@ -23,9 +24,10 @@
     75,
     76,
     77,
-    78
+    78,
+    79
   ],
-  "current": 79,
+  "current": 80,
   "combined_document_created": false,
   "pdf_created": false,
   "pdf_verified": false,
