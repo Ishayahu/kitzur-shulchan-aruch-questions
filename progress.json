@@ -4,6 +4,8 @@
     "to": 221
   },
   "completed": [
+    1,
+    13,
     70,
     71,
     72,
@@ -158,6 +160,8 @@
     221
   ],
   "coverage_checked": [
+    1,
+    13,
     70,
     71,
     72,
@@ -311,7 +315,7 @@
     220,
     221
   ],
-  "current": 1,
+  "current": 2,
   "combined_document_created": false,
   "pdf_created": false,
   "pdf_verified": false,
