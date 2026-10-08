@@ -450,9 +450,9 @@
     221
   ],
   "current": null,
-  "combined_document_created": false,
-  "pdf_created": false,
-  "pdf_verified": false,
+  "combined_document_created": true,
+  "pdf_created": true,
+  "pdf_verified": true,
   "work_order": [
     {
       "from": 70,
@@ -463,5 +463,7 @@
       "to": 69
     }
   ],
-  "phase": 2
+  "phase": 2,
+  "final_audit_completed": true,
+  "pdf_pages": 332
 }
